@@ -2,6 +2,7 @@
 
 As part of this porject we implemented and benchmarked few performance aspects Nil-Ext in Kafka.
 
+We have submitted our fork of Kafka and benchmark, but given the extent of our implementation listing all changes are not feasible. Please let us know if we can submit it any other way.
 
 Code for Nil-Ext implementation for Kafka can be found at:
 https://github.com/himanshusagar/kafka
